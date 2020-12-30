@@ -1,0 +1,10 @@
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\bin\Debug\DZ.exe.config
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\bin\Debug\DZ.exe
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\bin\Debug\DZ.pdb
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\obj\Debug\DZ.Form1.resources
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\obj\Debug\DZ.Properties.Resources.resources
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\obj\Debug\DZ.csproj.GenerateResource.cache
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\obj\Debug\DZ.exe
+D:\Visual Проги\Лабы C#\ДЗ\DZ\DZ\obj\Debug\DZ.pdb
